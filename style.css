@@ -166,7 +166,7 @@ main{
     border: 3px solid rgb(255, 255, 255);
     border-radius: 20rem;
     box-shadow:0 0 5px  rgb(255, 255, 255);
-    background-image: url('./img/me_img_cut.jpg');
+    background-image: url('./img/me_img.jpg');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
