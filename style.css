@@ -166,7 +166,7 @@ main{
     border: 3px solid rgb(255, 255, 255);
     border-radius: 20rem;
     box-shadow:0 0 5px  rgb(255, 255, 255);
-    background-image: url(https://scontent.fmnl25-3.fna.fbcdn.net/v/t1.15752-9/287296806_787281952462923_8588325504234807010_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGc8ZOzPgoMNlVl9tu2bbvCF7ZiugvR2rAXtmK6C9HasOoaj2bh96G8myqwEtZkVN7YtnzRTBBkXizXt4zqslVO&_nc_ohc=k0UolbCdmPIAX-YZUiE&_nc_ht=scontent.fmnl25-3.fna&oh=03_AVJfesU5xlcgudBgeSFe6-WFmD3WcPe4Sy-tvrcLkYVgTg&oe=633DECCE);
+    background-image: url('./img/me_img.jpg');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
