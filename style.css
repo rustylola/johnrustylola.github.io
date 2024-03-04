@@ -355,6 +355,11 @@ main{
     grid-template-rows: 5% 90%;
 }
 
+.about img{
+    width:50%;
+    height: 50%;
+}
+
 
 .about:hover .project-title > div{
     width: 100%;
