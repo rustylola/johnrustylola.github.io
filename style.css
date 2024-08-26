@@ -20,7 +20,7 @@ nav{
     list-style: none;
     position: fixed;
     top: 0;
-    z-index: 1;
+    z-index: 20;
 }
 
 nav .logo{
@@ -171,6 +171,22 @@ main{
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+/* EXPERIENCE SECTION */
+
+.experience{
+    /* margin-top: 5%; */
+    /* border: 1px solid red; */
+    color: white;
+    display: grid;
+    grid-template-rows: 5% 95%;
+}
+
+
+.experience:hover .project-title > div{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
 }
 
 /* PROJECT SECTION */
@@ -539,7 +555,7 @@ footer{
     nav ul li a{
         font-size: 0.8rem;
         text-decoration: none;
-        padding: 30px 30px;
+        padding: 25px 25px;
         font-weight: 700;
         color: white; 
     }
@@ -635,7 +651,7 @@ footer{
     
     /* MAIN CONTENT */
     main{
-        grid-template-rows: 1fr 3fr 1.5fr 0.5fr;
+        grid-template-rows: 1fr 0.5fr 3fr 1.5fr 0.5fr;
     }
 
     /* HERO-BANNER */
